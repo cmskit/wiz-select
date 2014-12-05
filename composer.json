@@ -1,7 +1,7 @@
 {
     "name": "cmskit/wizard-select",
     "type": "library",
-    "version": "0.0.0",
+    "version": "0.8.0",
     "description": "A cms-kit wizard to create a selectbox or a range slider",
     "license": "GPL",
     "authors": [
